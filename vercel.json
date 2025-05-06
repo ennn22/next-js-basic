@@ -1,0 +1,7 @@
+{
+  "build": {
+    "env": {
+      "NEXT_PUBLIC_SKIP_BUILD_NATIVE_MODULES": "true"
+    }
+  }
+}
